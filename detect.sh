@@ -1,0 +1,1 @@
+./build/yolov5 -d ./best.engine ./test_imgs
